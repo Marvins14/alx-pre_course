@@ -5,7 +5,10 @@ ALX echo ALX School is cool
 echo "ALX"
 ALX echo ALX School is so cool
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> master
+=======
+>>>>>>> 833532f10e12ae82becce874b6df19207caf2db0
 =======
 >>>>>>> 833532f10e12ae82becce874b6df19207caf2db0
 ALX echo ALX School is so cool!
