@@ -3,3 +3,4 @@ cat >> up_to_date
 q
 :q
 :w
+git pull
