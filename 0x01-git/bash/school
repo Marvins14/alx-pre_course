@@ -1,3 +1,8 @@
 #!/bin/bash
 echo "School"
+<<<<<<< HEAD
 School echo The school is open!
+=======
+School echo ALX School is open
+ALX School is open echo ALX School is open!
+>>>>>>> main

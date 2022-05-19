@@ -1,4 +1,15 @@
+<<<<<<< HEAD
+ALX echo ALX School is cool
+=======
 #!/bin/bash
 echo "ALX"
 ALX echo ALX School is so cool
+<<<<<<< HEAD
 ALX echo ALX School
+=======
+<<<<<<< HEAD
+>>>>>>> master
+=======
+>>>>>>> 833532f10e12ae82becce874b6df19207caf2db0
+ALX echo ALX School is so cool!
+>>>>>>> main

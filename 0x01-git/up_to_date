@@ -1,0 +1,6 @@
+How to be up to date in git
+cat >> up_to_date
+q
+:q
+:w
+git pull
