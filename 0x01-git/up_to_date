@@ -4,3 +4,6 @@ q
 :q
 :w
 git pull
+q:q
+:w
+git pull
