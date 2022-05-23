@@ -3,6 +3,7 @@ ALX echo ALX School is cool
 =======
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 ALX echo ALX School
 =======
 <<<<<<< HEAD
@@ -13,3 +14,8 @@ ALX echo ALX School is so cool!
 >>>>>>> main
 “ALX School”
 ALX echo ALX School
+=======
+echo "ALX"
+ALX echo ALX School is so cool
+ALX echo ALX School is so cool!
+>>>>>>> 833532f10e12ae82becce874b6df19207caf2db0
